@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8dfb27f-e5e2-49a1-9f04-3ede6d580468" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MilkDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MilkDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SugarDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SugarDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WhippedCreamDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WhippedCreamDecorator.java" afterDir="false" />
-    </list>
+    <list default="true" id="c8dfb27f-e5e2-49a1-9f04-3ede6d580468" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +19,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Batyrkhand"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="dbce789d-e1c4-41b7-8d9f-036fbae78881" />
+        <option name="url" value="https://github.com/Batyrkhand/SDP_2asg.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -63,7 +70,7 @@
       <workItem from="1696821562205" duration="1099000" />
       <workItem from="1696822712252" duration="463000" />
       <workItem from="1696845426611" duration="34000" />
-      <workItem from="1697023046134" duration="2712000" />
+      <workItem from="1697023046134" duration="3329000" />
     </task>
     <servers />
   </component>
