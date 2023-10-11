@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class Coffee {
+class Coffee {
+    double cost() {
+        return 2.0;
+    }
+
+    String getDescription() {
+        return "Plain coffee";
+    }
 }
