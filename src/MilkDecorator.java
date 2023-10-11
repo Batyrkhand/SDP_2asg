@@ -1,5 +1,6 @@
 class MilkDecorator extends Coffee {
     Coffee coffee;
+    String name;
 
     MilkDecorator(Coffee coffee) {
         this.coffee = coffee;
